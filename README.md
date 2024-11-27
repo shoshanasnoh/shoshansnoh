@@ -3,13 +3,13 @@
 
 >-**this is a** *work in progress..*
 ---
-<code>`testing` [New](Google.com*thingsout) Just for fun</code>
+<code>`testing` [New](https/Google.com*thingsout) Just for fun</code>
 
 or we can use <Mrtnzjj17@gmail.com>
 
-*but thats toooo* ['simple...'](code)
+*but thats toooo* ['simple...'](#code) 
 
 OR [*this*][1] can work too 
 
-[1]:<https//Google.com> 
+[1]:<https/Google.com> 
 Till next time..
