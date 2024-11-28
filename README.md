@@ -11,5 +11,5 @@ or we can use <Mrtnzjj17@gmail.com>
 
 OR [*this*][1] can work too 
 
-[1]:<https/Google.com/?> 
+[1]:<https/Google.com/> 
 Till next time..
