@@ -3,7 +3,7 @@
 
 >-**this is a** *work in progress..*
 ---
-<code>`testing` [New](https/Google.com/?client=safari&channel=iphone_bm"thingsout") Just for fun</code>
+<code>`testing` [New](https/duckduckgo.com"thingsout") Just for fun</code>
 
 or we can use <Mrtnzjj17@gmail.com>
 
