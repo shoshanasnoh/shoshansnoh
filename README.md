@@ -11,5 +11,7 @@ _but thats toooo_ **simple..** 
 
 OR [*this*][1] can work too 
 
-[1]:<https/Google.com/> 
-`rrggbb``b22222``Till next time..`
+[1]:<mrtnzjj17@gmail.com> 
+
+`#b22222till next time..`
+
