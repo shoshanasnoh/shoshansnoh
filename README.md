@@ -3,7 +3,7 @@
 
 >-**this is a** *work in progress..*
 ---
-`testing` [New](https://duckduckgo.com"thingsout") Just for fun
+`testing` [New](https://duckduckgo.com "thingsout") Just for fun
 
 **You can use [Mrtnzjj17@gmail.com](mmailto:mrtnzjj17@gmail.com) to contact me in dire need**
 
@@ -13,5 +13,6 @@ OR [*this*][1] can work too
 
 [1]:(mailto:mrtnzjj17@gmail.com)
 
-## #b22222 till next time..
+<span style="color: #b22222;">#b22222 till next time..</span>
 
+<span style="color: #b22222;">This text is red!</span>
